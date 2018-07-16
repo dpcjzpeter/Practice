@@ -1,7 +1,6 @@
 """Some foundamentals of vectors and matrices for rational numbers."""
 
 from typing import Any, List
-from subspace import Subspace, span
 
 class Vector:
     """
